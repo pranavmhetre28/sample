@@ -1,1 +1,1 @@
-print('Build triggered successful')
+print('Build triggered success')
